@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 
 Here are a few of my featured projects:
 
-1. **Project Name 1** - A short description of your project.
-   - [Live Demo](#) | [Repository](#)
+1. **Project Book Library Manament** - student can save book in this library .
+   - https://library-managment.streamlit.app/ | https://github.com/sharjeel-ahmed17/library_managment_python_gui
 2. **Project Name 2** - A short description of your project.
    - [Live Demo](#) | [Repository](#)
 3. **Project Name 3** - A short description of your project.
@@ -23,7 +23,7 @@ Here are a few of my featured projects:
 
 ## 📫 How to Reach Me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](mailto:sharjeelahmedofficial2.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourname)
 - Website: [Your Website](https://yourwebsite.com)
 
